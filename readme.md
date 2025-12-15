@@ -24,4 +24,5 @@ CREATE TABLE history_resistor_paralel (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-## Setela itu jalankan printah : http://localhost/kalkulator-elektronika/index.php?page=home
+
+## Setelah itu jalankan printah : http://localhost/kalkulator-elektronika/index.php?page=home
